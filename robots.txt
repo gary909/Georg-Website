@@ -1,0 +1,43 @@
+User-agent: *
+
+Disallow: /A_TEST/
+Disallow: /AHK_FTP_TEST/
+Disallow: /cs/
+Disallow: /georg/
+Disallow: /glueckman_sculptures2_files/
+Disallow: /home/
+Disallow: /logs/
+Disallow: /lowpoly_sculpture/
+Disallow: /mail_test/
+Disallow: /mailform/
+Disallow: /stutt2005/
+Disallow: /testarea/
+Disallow: /testarea2J/
+Disallow: /CSS/
+Disallow: /images/
+Disallow: /scripts/
+
+Disallow: /assembly-sculpture.html
+Disallow: /Glueckman-flash.html
+Disallow: /index__OLD.html
+Disallow: /glueckman sculptures.html.html
+Disallow: /Datenschutzerklaerung.html
+
+Disallow: /html.gif
+Disallow: /spoon1.jpg
+Disallow: /spoon2.jpg
+Disallow: /spoon3.jpg
+Disallow: /spoonx.jpg
+Disallow: /temp-web2.jpg
+Disallow: /toyakomplett.jpg
+Disallow: /under construction.jpg
+
+Disallow: /blumenautomatgalerie/glueckman1.html
+Disallow: /blumenautomatgalerie/glueckman2.html
+Disallow: /blumenautomatgalerie/glueckman3.html
+Disallow: /blumenautomatgalerie/glueckman4.html
+Disallow: /blumenautomatgalerie/ramon di brea 1.html
+Disallow: /blumenautomatgalerie/ramon di brea 2.html
+Disallow: /blumenautomatgalerie/laimanee1.html
+Disallow: /blumenautomatgalerie/blumenautomat-links.html
+Disallow: /blumenautomatgalerie/blumenautomat gallery contact.html
